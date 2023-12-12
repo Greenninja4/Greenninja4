@@ -1,5 +1,3 @@
-- 👀 I’m interested in all things Data (ML, DS, Big Data, Data Observability, etc.)
-- 🌱 I’m currently learning Clojure
 - 📫 Checkout my personal website at www.jborn.org
 
 <!---
